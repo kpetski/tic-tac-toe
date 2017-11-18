@@ -1,3 +1,8 @@
+# Tic-Tac-Toe React Tutorial
+Tutorial: https://reactjs.org/tutorial/tutorial.html
+
+View running application at: https://kpetski.github.io/tic-tac-toe/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
